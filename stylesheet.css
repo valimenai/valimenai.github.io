@@ -1,0 +1,20 @@
+.col .card{
+    margin: 40px;
+}
+
+
+body {
+
+    background-color: black
+}
+
+.seventy {
+    width: 70%
+}
+.thirty {
+    width: 30%
+}
+​
+.flex {
+    display: flex;
+}
